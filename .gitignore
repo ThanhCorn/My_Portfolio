@@ -21,7 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-src/components/FloatingDiv/FloatingDiv.css
-src/components/FloatingDiv/FloatingDiv.jsx
-src/components/Intro/Intro.css
-src/components/Intro/Intro.jsx
